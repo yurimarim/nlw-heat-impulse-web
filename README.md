@@ -19,7 +19,7 @@
 ## Print
 
 <p align="center">
-   <img src="./.github/dowhile1.png" alt="dowhile21" width="300"/>
+   <img src="./.github/dowhile1.png" alt="dowhile21" width="750"/>
 </p>
 
 ## Rodar projeto
