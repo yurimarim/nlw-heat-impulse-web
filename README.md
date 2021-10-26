@@ -16,6 +16,26 @@
 
 **DoWhile2021 -> Front-end Web (React.js).** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
 
+## Print
+
+<p align="center">
+   <img src="./.github/dowhile1.png" alt="dowhile21" width="300"/>
+</p>
+
+## Rodar projeto
+
+- Na pasta do projeto rodar:
+
+```
+yarn
+```
+
+- Para iniciar o servidor:
+
+```
+yarn dev
+```
+
 ### Tecnologias utilizadas
 
 - React.js
