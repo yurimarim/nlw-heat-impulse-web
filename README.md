@@ -22,7 +22,7 @@
    <img src="./.github/dowhile1.png" alt="dowhile21" width="750"/>
 </p>
 
-## Rodar projeto
+## Rodar | Config Projeto
 
 - Na pasta do projeto rodar:
 
