@@ -14,7 +14,7 @@
 
 ## Sobre
 
-**DoWhile2021 -> Front-end Web (React.js)!** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
+**DoWhile2021 -> Front-end Web (React.js).** trata-se de um projeto realizado durante um evento da Rocketseat - Next Level Week Heat: Trilha Impulse 🚀🔥
 
 ## Print
 
@@ -22,7 +22,7 @@
    <img src="./.github/dowhile1.png" alt="dowhile21" width="750"/>
 </p>
 
-## Rodar | Config Projeto
+## Rodar || Config Projeto
 
 - Na pasta do projeto rodar:
 
